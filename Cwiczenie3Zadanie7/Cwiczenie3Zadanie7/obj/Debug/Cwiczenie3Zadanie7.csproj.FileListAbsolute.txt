@@ -1,0 +1,8 @@
+D:\VS projekty\Cwiczenie3Zadanie7\Cwiczenie3Zadanie7\bin\Debug\Cwiczenie3Zadanie7.exe.config
+D:\VS projekty\Cwiczenie3Zadanie7\Cwiczenie3Zadanie7\bin\Debug\Cwiczenie3Zadanie7.exe
+D:\VS projekty\Cwiczenie3Zadanie7\Cwiczenie3Zadanie7\bin\Debug\Cwiczenie3Zadanie7.pdb
+D:\VS projekty\Cwiczenie3Zadanie7\Cwiczenie3Zadanie7\obj\Debug\Cwiczenie3Zadanie7.csproj.AssemblyReference.cache
+D:\VS projekty\Cwiczenie3Zadanie7\Cwiczenie3Zadanie7\obj\Debug\Cwiczenie3Zadanie7.csproj.SuggestedBindingRedirects.cache
+D:\VS projekty\Cwiczenie3Zadanie7\Cwiczenie3Zadanie7\obj\Debug\Cwiczenie3Zadanie7.csproj.CoreCompileInputs.cache
+D:\VS projekty\Cwiczenie3Zadanie7\Cwiczenie3Zadanie7\obj\Debug\Cwiczenie3Zadanie7.exe
+D:\VS projekty\Cwiczenie3Zadanie7\Cwiczenie3Zadanie7\obj\Debug\Cwiczenie3Zadanie7.pdb
